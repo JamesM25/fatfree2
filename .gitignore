@@ -1,3 +1,4 @@
-# Files created automatically by composer
+# Files created automatically
 composer.lock
 vendor/
+tmp/
